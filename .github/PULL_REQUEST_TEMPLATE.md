@@ -3,7 +3,7 @@
 
 ### Checklist 
 - [ ] Changelog atualizado
-- [ ] Build
+- [ ] Build funcionando corretamente
 - [ ] Auto review do código da minha tarefa
 
 # Evidências visuais
